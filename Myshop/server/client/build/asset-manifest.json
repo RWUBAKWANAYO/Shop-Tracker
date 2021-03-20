@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8bae6832.chunk.css",
+    "main.js": "/static/js/main.a393f915.chunk.js",
+    "main.js.map": "/static/js/main.a393f915.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3751a481.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3751a481.js.map",
+    "static/js/2.881e687d.chunk.js": "/static/js/2.881e687d.chunk.js",
+    "static/js/2.881e687d.chunk.js.map": "/static/js/2.881e687d.chunk.js.map",
+    "static/js/3.cf24742c.chunk.js": "/static/js/3.cf24742c.chunk.js",
+    "static/js/3.cf24742c.chunk.js.map": "/static/js/3.cf24742c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.8bae6832.chunk.css.map": "/static/css/main.8bae6832.chunk.css.map",
+    "static/js/2.881e687d.chunk.js.LICENSE.txt": "/static/js/2.881e687d.chunk.js.LICENSE.txt",
+    "static/media/anime1.0cc96674.jpeg": "/static/media/anime1.0cc96674.jpeg",
+    "static/media/anime2.01898657.jpeg": "/static/media/anime2.01898657.jpeg",
+    "static/media/anime3.050eff93.jpeg": "/static/media/anime3.050eff93.jpeg",
+    "static/media/anime4.7f647d23.jpeg": "/static/media/anime4.7f647d23.jpeg",
+    "static/media/anime5.4649be8d.jpeg": "/static/media/anime5.4649be8d.jpeg",
+    "static/media/anime6.80453d1b.jpeg": "/static/media/anime6.80453d1b.jpeg",
+    "static/media/anime7.09244693.jpeg": "/static/media/anime7.09244693.jpeg",
+    "static/media/computer.a80aa6c6.png": "/static/media/computer.a80aa6c6.png",
+    "static/media/logo.75827cc8.png": "/static/media/logo.75827cc8.png",
+    "static/media/myImage.6abfa436.png": "/static/media/myImage.6abfa436.png",
+    "static/media/phone.bac48995.png": "/static/media/phone.bac48995.png",
+    "static/media/slide1.611e8790.jpeg": "/static/media/slide1.611e8790.jpeg",
+    "static/media/slide2.cabb30cc.jpeg": "/static/media/slide2.cabb30cc.jpeg",
+    "static/media/slide3.e55580d8.jpeg": "/static/media/slide3.e55580d8.jpeg",
+    "static/media/slide4.f25b2435.jpeg": "/static/media/slide4.f25b2435.jpeg",
+    "static/media/slide5.95d9b2af.jpg": "/static/media/slide5.95d9b2af.jpg",
+    "static/media/workshop.985e23ea.jpg": "/static/media/workshop.985e23ea.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3751a481.js",
+    "static/js/2.881e687d.chunk.js",
+    "static/css/main.8bae6832.chunk.css",
+    "static/js/main.a393f915.chunk.js"
+  ]
+}
