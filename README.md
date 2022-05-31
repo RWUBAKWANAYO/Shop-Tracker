@@ -14,16 +14,9 @@ Notified to products running low in stock, agenda to keep owner schedule update,
 - Cloudinary
 - Dayjs
 - Axios
-- uuid
-- Font awesome
 - Nodejs
-- Expressjs
 - MongoDB
-- Mongoose
-- Cors
-- Bycryptjs
-- Jsonwebtoken
-- Heroku
+- Heroku-deployment
 
 ## Live Demo
 [myshop10.herokuapp.com/](http://myshop10.herokuapp.com/)
