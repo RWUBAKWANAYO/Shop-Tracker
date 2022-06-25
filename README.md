@@ -1,5 +1,4 @@
 # Shop-Tracker
-# Rwanda-Events
 
 "Shop Tracker" is the is web App build to assist owners of the shop to manage and track business activities,
 By get real time information of every sold products,access every products in stock,
